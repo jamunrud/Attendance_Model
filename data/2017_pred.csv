@@ -1,0 +1,82 @@
+,EVENT_ID,event_time,Event_Label,mlb_opponent,DayOfWeek,Homestand_Number,Series_Number,Game_Number,RegularSeason_Game,Promotion,GroupNight,Premium,Outcome,PartialPlan,Season,Date,Holiday,Month,GameTime,DayTime,PromotionCat,Group,ALWest,LastSeasonOppWins,LastSeasonHomeWins,AvgRoadAttendance_1,Prediction
+0,3994,4/3/17 19:05,4/3/17,Los Angeles Angels,Monday,1,1,1,Yes,Opening Day,,Gold,,On Deck,2017,2017-04-03 19:05:00,False,April,Night,Monday_Night,OpeningDay,,True,74,69,28676.0,31354.8271508
+1,3923,4/4/17 19:05,4/4/17,Los Angeles Angels,Tuesday,1,1,2,Yes,,,White,,Sac Fly,2017,2017-04-04 19:05:00,False,April,Night,Tuesday_Night,,,True,74,69,28676.0,10970.7014228
+2,3924,4/5/17 19:05,4/5/17,Los Angeles Angels,Wednesday,1,1,3,Yes,,,White,,Sac Fly,2017,2017-04-05 19:05:00,False,April,Night,Wednesday_Night,,,True,74,69,28676.0,14524.21109
+3,3925,4/6/17 12:35,4/6/17,Los Angeles Angels,Thursday,1,1,4,Yes,,,White,,Hit and Run,2017,2017-04-06 12:35:00,False,April,Day,Thursday_Day,,,True,74,69,28676.0,12568.473037
+4,3926,4/14/17 19:05,4/14/17,Houston Astros,Friday,2,2,5,Yes,,,White,,On Deck,2017,2017-04-14 19:05:00,False,April,Night,Friday_Night,,,True,84,69,28041.0,14098.1544713
+5,3927,4/15/17 13:05,4/15/17,Houston Astros,Saturday,2,2,6,Yes,,,White,,On Deck,2017,2017-04-15 13:05:00,False,April,Day,Saturday_Day,,,True,84,69,28041.0,16946.4254384
+6,3928,4/16/17 13:05,4/16/17,Houston Astros,Sunday,2,2,7,Yes,,,White,,On Deck,2017,2017-04-16 13:05:00,False,April,Day,Sunday_Day,,,True,84,69,28041.0,15173.8759307
+7,3929,4/17/17 19:05,4/17/17,Texas Rangers,Monday,2,3,8,Yes,,,White,,Sac Fly,2017,2017-04-17 19:05:00,False,April,Night,Monday_Night,,,True,95,69,27560.0,9001.04309042
+8,3930,4/18/17 19:05,4/18/17,Texas Rangers,Tuesday,2,3,9,Yes,,,White,,Sac Fly,2017,2017-04-18 19:05:00,False,April,Night,Tuesday_Night,,,True,95,69,27560.0,11188.6675538
+9,3931,4/19/17 12:35,4/19/17,Texas Rangers,Wednesday,2,3,10,Yes,,,White,,Hit and Run,2017,2017-04-19 12:35:00,False,April,Day,Wednesday_Day,,,True,95,69,27560.0,15177.20936
+10,3932,4/20/17 19:05,4/20/17,Seattle Mariners,Thursday,2,4,11,Yes,,,White,,Sac Fly,2017,2017-04-20 19:05:00,False,April,Night,Thursday_Night,,,True,86,69,28309.0,9177.05013273
+11,3933,4/21/17 19:05,4/21/17,Seattle Mariners,Friday,2,4,12,Yes,Other,,White,,On Deck,2017,2017-04-21 19:05:00,False,April,Night,Friday_Night,Other,,True,86,69,28309.0,17887.7584964
+12,3934,4/22/17 13:05,4/22/17,Seattle Mariners,Saturday,2,4,13,Yes,Other,,Green,,On Deck,2017,2017-04-22 13:05:00,False,April,Day,Saturday_Day,Other,,True,86,69,28309.0,20736.0294635
+13,3935,4/23/17 13:05,4/23/17,Seattle Mariners,Sunday,2,4,14,Yes,,Little League Day,Green,,On Deck,2017,2017-04-23 13:05:00,False,April,Day,Sunday_Day,,LittleLeagueDay,True,86,69,28309.0,21150.8548431
+14,3936,5/5/17 19:05,5/5/17,Detroit Tigers,Friday,3,5,15,Yes,,,White,,On Deck,2017,2017-05-05 19:05:00,False,May,Night,Friday_Night,,,False,86,69,28313.0,15049.2275979
+15,3937,5/6/17 18:05,5/6/17,Detroit Tigers,Saturday,3,5,16,Yes,Bobblehead,,Green,,On Deck,2017,2017-05-06 18:05:00,False,May,Night,Saturday_Night,Bobble,,False,86,69,28313.0,24955.0044042
+16,3938,5/7/17 13:05,5/7/17,Detroit Tigers,Sunday,3,5,17,Yes,,Little League Day,Green,,On Deck,2017,2017-05-07 13:05:00,False,May,Day,Sunday_Day,,LittleLeagueDay,False,86,69,28313.0,22298.1932435
+17,3939,5/8/17 19:05,5/8/17,Los Angeles Angels,Monday,3,6,18,Yes,,,White,,Sac Fly,2017,2017-05-08 19:05:00,False,May,Night,Monday_Night,,,True,74,69,28676.0,8267.44528152
+18,3940,5/9/17 19:05,5/9/17,Los Angeles Angels,Tuesday,3,6,19,Yes,,,White,,Sac Fly,2017,2017-05-09 19:05:00,False,May,Night,Tuesday_Night,,,True,74,69,28676.0,10455.0697449
+19,3941,5/10/17 12:35,5/10/17,Los Angeles Angels,Wednesday,3,6,20,Yes,,,White,,Hit and Run,2017,2017-05-10 12:35:00,False,May,Day,Wednesday_Day,,,True,74,69,28676.0,14443.6115511
+20,3942,5/18/17 19:05,5/18/17,Boston Red Sox,Thursday,4,7,21,Yes,,,Green,,Sac Fly,2017,2017-05-18 19:05:00,False,May,Night,Thursday_Night,,,False,93,69,32290.0,16044.7793824
+21,3943,5/19/17 18:35,5/19/17,Boston Red Sox,Friday,4,7,22,Yes,Fireworks,,Green,,On Deck,2017,2017-05-19 18:35:00,False,May,Night,Friday_Night,Fireworks,,False,93,69,32290.0,31081.7194436
+22,3944,5/20/17 13:05,5/20/17,Boston Red Sox,Saturday,4,7,23,Yes,,,Green,,On Deck,2017,2017-05-20 13:05:00,False,May,Day,Saturday_Day,,,False,93,69,32290.0,23617.8894142
+23,3945,5/21/17 13:05,5/21/17,Boston Red Sox,Sunday,4,7,24,Yes,,Scout Day,Green,,On Deck,2017,2017-05-21 13:05:00,False,May,Day,Sunday_Day,,Scout,False,93,69,32290.0,24667.7896131
+24,3946,5/23/17 19:05,5/23/17,Miami Marlins,Tuesday,4,8,25,Yes,,,White,,Sac Fly,2017,2017-05-23 19:05:00,False,May,Night,Tuesday_Night,,,False,79,69,28510.0,10197.4883628
+25,3947,5/24/17 12:35,5/24/17,Miami Marlins,Wednesday,4,8,26,Yes,,,White,,Hit and Run,2017,2017-05-24 12:35:00,False,May,Day,Wednesday_Day,,,False,79,69,28510.0,14186.030169
+26,3948,6/2/17 19:05,6/2/17,Washington Nationals,Friday,5,9,27,Yes,,,Green,,On Deck,2017,2017-06-02 19:05:00,False,June,Night,Friday_Night,,,False,95,69,29664.0,18334.6635537
+27,3949,6/3/17 13:05,6/3/17,Washington Nationals,Saturday,5,9,28,Yes,Bobblehead,,Green,,On Deck,2017,2017-06-03 13:05:00,False,June,Day,Saturday_Day,Bobble,,False,95,69,29664.0,27353.6004673
+28,3950,6/4/17 13:05,6/4/17,Washington Nationals,Sunday,5,9,29,Yes,Other,,Green,,On Deck,2017,2017-06-04 13:05:00,False,June,Day,Sunday_Day,Other,,False,95,69,29664.0,23396.2543119
+29,3951,6/5/17 19:05,6/5/17,Toronto Blue Jays,Monday,5,10,30,Yes,,,White,,Sac Fly,2017,2017-06-05 19:05:00,False,June,Night,Monday_Night,,,False,89,69,30065.0,8831.4421274
+30,3952,6/6/17 19:05,6/6/17,Toronto Blue Jays,Tuesday,5,10,31,Yes,,,White,,Sac Fly,2017,2017-06-06 19:05:00,False,June,Night,Tuesday_Night,,,False,89,69,30065.0,11019.0665908
+31,3953,6/7/17 12:35,6/7/17,Toronto Blue Jays,Wednesday,5,10,32,Yes,,,White,,Hit and Run,2017,2017-06-07 12:35:00,False,June,Day,Wednesday_Day,,,False,89,69,30065.0,15007.6083969
+32,3954,6/15/17 19:05,6/15/17,New York Yankees,Thursday,6,11,33,Yes,,,Green,,Sac Fly,2017,2017-06-15 19:05:00,False,June,Night,Thursday_Night,,,False,84,69,30940.0,18091.6281298
+33,3955,6/16/17 18:35,6/16/17,New York Yankees,Friday,6,11,34,Yes,Fireworks,,Gold,,On Deck,2017,2017-06-16 18:35:00,False,June,Night,Friday_Night,Fireworks,,False,84,69,30940.0,33128.568191
+34,3956,6/17/17 13:05,6/17/17,New York Yankees,Saturday,6,11,35,Yes,,,Gold,,On Deck,2017,2017-06-17 13:05:00,False,June,Day,Saturday_Day,,,False,84,69,30940.0,25664.7381616
+35,3957,6/18/17 13:05,6/18/17,New York Yankees,Sunday,6,11,36,Yes,Bobblehead,,Gold,,On Deck,2017,2017-06-18 13:05:00,False,June,Day,Sunday_Day,Bobble,,False,84,69,30940.0,30062.8546006
+36,3958,6/19/17 19:05,6/19/17,Houston Astros,Monday,6,12,37,Yes,,,White,,Sac Fly,2017,2017-06-19 19:05:00,False,June,Night,Monday_Night,,,True,84,69,28041.0,9403.1806577
+37,3959,6/20/17 19:05,6/20/17,Houston Astros,Tuesday,6,12,38,Yes,,,White,,Sac Fly,2017,2017-06-20 19:05:00,False,June,Night,Tuesday_Night,,,True,84,69,28041.0,11590.8051211
+38,3960,6/21/17 19:05,6/21/17,Houston Astros,Wednesday,6,12,39,Yes,,,White,,Sac Fly,2017,2017-06-21 19:05:00,False,June,Night,Wednesday_Night,,,True,84,69,28041.0,15144.3147883
+39,3961,6/22/17 12:35,6/22/17,Houston Astros,Thursday,6,12,40,Yes,,,White,,Hit and Run,2017,2017-06-22 12:35:00,False,June,Day,Thursday_Day,,,True,84,69,28041.0,13188.5767353
+40,3962,6/30/17 19:05,6/30/17,Atlanta Braves,Friday,7,13,41,Yes,,,Green,,On Deck,2017,2017-06-30 19:05:00,False,June,Night,Friday_Night,,,False,68,69,28026.0,15251.8379459
+41,3963,7/1/17 13:05,7/1/17,Atlanta Braves,Saturday,7,13,42,Yes,Bobblehead,,Green,,On Deck,2017,2017-07-01 13:05:00,False,July,Day,Saturday_Day,Bobble,,False,68,69,28026.0,26170.0870661
+42,3964,7/2/17 13:05,7/2/17,Atlanta Braves,Sunday,7,13,43,Yes,Other,,Green,,On Deck,2017,2017-07-02 13:05:00,False,July,Day,Sunday_Day,Other,,False,68,69,28026.0,22212.7409107
+43,3965,7/3/17 18:05,7/3/17,Chicago White Sox,Monday,7,14,44,Yes,Fireworks,,Green,,On Deck,2017,2017-07-03 18:05:00,False,July,Night,Monday_Night,Fireworks,,False,78,69,28188.0,20301.9903349
+44,3966,7/4/17 13:05,7/4/17,Chicago White Sox,Tuesday,7,14,45,Yes,,,Green,,On Deck,2017,2017-07-04 13:05:00,True,July,Day,Tuesday_Day,,,False,78,69,28188.0,18901.1103258
+45,3967,7/5/17 12:35,7/5/17,Chicago White Sox,Wednesday,7,14,46,Yes,,,White,,Hit and Run,2017,2017-07-05 12:35:00,False,July,Day,Wednesday_Day,,,False,78,69,28188.0,16166.055608
+46,3968,7/14/17 19:05,7/14/17,Cleveland Indians,Friday,8,15,47,Yes,,,White,,On Deck,2017,2017-07-14 19:05:00,False,July,Night,Friday_Night,,,False,94,69,26940.0,14661.81963
+47,3969,7/15/17 18:05,7/15/17,Cleveland Indians,Saturday,8,15,48,Yes,Jersey,,Green,,On Deck,2017,2017-07-15 18:05:00,False,July,Night,Saturday_Night,Jersey,,False,94,69,26940.0,22255.2110168
+48,3970,7/16/17 13:05,7/16/17,Cleveland Indians,Sunday,8,15,49,Yes,,,Green,,On Deck,2017,2017-07-16 13:05:00,False,July,Day,Sunday_Day,,,False,94,69,26940.0,15737.5410894
+49,3971,7/17/17 19:05,7/17/17,Tampa Bay Rays,Monday,8,16,50,Yes,,,White,,Sac Fly,2017,2017-07-17 19:05:00,False,July,Night,Monday_Night,,,False,68,69,30093.0,8290.46521468
+50,3972,7/18/17 19:05,7/18/17,Tampa Bay Rays,Tuesday,8,16,51,Yes,,,White,,Sac Fly,2017,2017-07-18 19:05:00,False,July,Night,Tuesday_Night,,,False,68,69,30093.0,10478.0896781
+51,3973,7/19/17 12:35,7/19/17,Tampa Bay Rays,Wednesday,8,16,52,Yes,,,White,,Hit and Run,2017,2017-07-19 12:35:00,False,July,Day,Wednesday_Day,,,False,68,69,30093.0,14466.6314842
+52,3974,7/28/17 19:05,7/28/17,Minnesota Twins,Friday,9,17,53,Yes,Bobblehead,,White,,On Deck,2017,2017-07-28 19:05:00,False,July,Night,Friday_Night,Bobble,,False,59,69,27357.0,21505.8488225
+53,3975,7/29/17 18:05,7/29/17,Minnesota Twins,Saturday,9,17,54,Yes,Fireworks,,Green,,On Deck,2017,2017-07-29 18:05:00,False,July,Night,Saturday_Night,Fireworks,,False,59,69,27357.0,29382.394732
+54,3976,7/30/17 13:05,7/30/17,Minnesota Twins,Sunday,9,17,55,Yes,,,Green,,On Deck,2017,2017-07-30 13:05:00,False,July,Day,Sunday_Day,,,False,59,69,27357.0,16410.9043353
+55,3977,7/31/17 19:05,7/31/17,San Francisco Giants,Monday,9,18,56,Yes,,,Gold,,Sac Fly,2017,2017-07-31 19:05:00,False,July,Night,Monday_Night,,,False,87,69,32164.0,28931.9227863
+56,3978,8/1/17 19:05,8/1/17,San Francisco Giants,Tuesday,9,18,57,Yes,,,Gold,,Sac Fly,2017,2017-08-01 19:05:00,False,August,Night,Tuesday_Night,,,False,87,69,32164.0,30704.712531
+57,3979,8/8/17 19:05,8/8/17,Seattle Mariners,Tuesday,10,19,58,Yes,,,White,,Sac Fly,2017,2017-08-08 19:05:00,False,August,Night,Tuesday_Night,,,True,86,69,28309.0,12879.0173351
+58,3980,8/9/17 12:35,8/9/17,Seattle Mariners,Wednesday,10,19,59,Yes,,,White,,Hit and Run,2017,2017-08-09 12:35:00,False,August,Day,Wednesday_Day,,,True,86,69,28309.0,16867.5591413
+59,3981,8/10/17 19:05,8/10/17,Baltimore Orioles,Thursday,10,20,60,Yes,,,White,,Sac Fly,2017,2017-08-10 19:05:00,False,August,Night,Thursday_Night,,,False,89,69,31796.0,11690.7612534
+60,3982,8/11/17 19:05,8/11/17,Baltimore Orioles,Friday,10,20,61,Yes,,,White,,On Deck,2017,2017-08-11 19:05:00,False,August,Night,Friday_Night,,,False,89,69,31796.0,16415.6003182
+61,3983,8/12/17 18:05,8/12/17,Baltimore Orioles,Saturday,10,20,62,Yes,Fireworks,,Green,,On Deck,2017,2017-08-12 18:05:00,False,August,Night,Saturday_Night,Fireworks,,False,89,69,31796.0,30462.8121743
+62,3984,8/13/17 13:05,8/13/17,Baltimore Orioles,Sunday,10,20,63,Yes,,,White,,On Deck,2017,2017-08-13 13:05:00,False,August,Day,Sunday_Day,,,False,89,69,31796.0,17491.3217776
+63,3985,8/14/17 19:05,8/14/17,Kansas City Royals,Monday,10,21,64,Yes,,,White,,Sac Fly,2017,2017-08-14 19:05:00,False,August,Night,Monday_Night,,,False,81,69,27979.0,10711.954599
+64,3986,8/15/17 19:05,8/15/17,Kansas City Royals,Tuesday,10,21,65,Yes,,,White,,Sac Fly,2017,2017-08-15 19:05:00,False,August,Night,Tuesday_Night,,,False,81,69,27979.0,12899.5790623
+65,3987,8/16/17 12:35,8/16/17,Kansas City Royals,Wednesday,10,21,66,Yes,,,White,,Hit and Run,2017,2017-08-16 12:35:00,False,August,Day,Wednesday_Day,,,False,81,69,27979.0,16888.1208685
+66,3988,8/25/17 19:05,8/25/17,Texas Rangers,Friday,11,22,67,Yes,,,White,,On Deck,2017,2017-08-25 19:05:00,False,August,Night,Friday_Night,,,True,95,69,27560.0,16096.6972238
+67,3989,8/26/17 13:05,8/26/17,Texas Rangers,Saturday,11,22,68,Yes,Bobblehead,,Green,,On Deck,2017,2017-08-26 13:05:00,False,August,Day,Saturday_Day,Bobble,,True,95,69,27560.0,25115.6341374
+68,3990,8/27/17 13:05,8/27/17,Texas Rangers,Sunday,11,22,69,Yes,,,White,,On Deck,2017,2017-08-27 13:05:00,False,August,Day,Sunday_Day,,,True,95,69,27560.0,17172.4186832
+69,3991,9/4/17 13:05,9/4/17,Los Angeles Angels,Monday,12,23,70,Yes,Other,,Green,,On Deck,2017,2017-09-04 13:05:00,True,September,Day,Monday_Day,Other,,True,74,69,28676.0,20871.4823233
+70,3992,9/5/17 19:05,9/5/17,Los Angeles Angels,Tuesday,12,23,71,Yes,,,White,,Sac Fly,2017,2017-09-05 19:05:00,False,September,Night,Tuesday_Night,,,True,74,69,28676.0,11387.2847504
+71,3993,9/6/17 12:35,9/6/17,Los Angeles Angels,Wednesday,12,23,72,Yes,,,White,,Hit and Run,2017,2017-09-06 12:35:00,False,September,Day,Wednesday_Day,,,True,74,69,28676.0,15375.8265566
+72,3995,9/8/17 19:05,9/8/17,Houston Astros,Friday,12,24,73,Yes,,,White,,On Deck,2017,2017-09-08 19:05:00,False,September,Night,Friday_Night,,,True,84,69,28041.0,14514.737799
+73,3996,9/9/17 13:05,9/9/17,Houston Astros,Saturday,12,24,74,Yes,,,Green,,On Deck,2017,2017-09-09 13:05:00,False,September,Day,Saturday_Day,,,True,84,69,28041.0,17363.008766
+74,3997,9/10/17 13:05,9/10/17,Houston Astros,Sunday,12,24,75,Yes,Other,,White,,On Deck,2017,2017-09-10 13:05:00,False,September,Day,Sunday_Day,Other,,True,84,69,28041.0,19576.3285573
+75,3998,9/22/17 19:05,9/22/17,Texas Rangers,Friday,13,25,76,Yes,,,Green,,On Deck,2017,2017-09-22 19:05:00,False,September,Night,Friday_Night,,,True,95,69,27560.0,14570.7016477
+76,3999,9/23/17 18:05,9/23/17,Texas Rangers,Saturday,13,25,77,Yes,Fireworks,,Green,,On Deck,2017,2017-09-23 18:05:00,False,September,Night,Saturday_Night,Fireworks,,True,95,69,27560.0,28617.9135038
+77,4000,9/24/17 13:05,9/24/17,Texas Rangers,Sunday,13,25,78,Yes,,,Green,,On Deck,2017,2017-09-24 13:05:00,False,September,Day,Sunday_Day,,,True,95,69,27560.0,15646.423107
+78,4001,9/25/17 19:05,9/25/17,Seattle Mariners,Monday,13,26,79,Yes,,,White,,Sac Fly,2017,2017-09-25 19:05:00,False,September,Night,Monday_Night,,,True,86,69,28309.0,9165.3972956
+79,4002,9/26/17 19:05,9/26/17,Seattle Mariners,Tuesday,13,26,80,Yes,,,White,,Sac Fly,2017,2017-09-26 19:05:00,False,September,Night,Tuesday_Night,,,True,86,69,28309.0,11353.021759
+80,4003,9/27/17 12:35,9/27/17,Seattle Mariners,Wednesday,13,26,81,Yes,,,White,,Hit and Run,2017,2017-09-27 12:35:00,False,September,Day,Wednesday_Day,,,True,86,69,28309.0,15341.5635651
